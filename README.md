@@ -17,3 +17,5 @@ https://ml-cheatsheet.readthedocs.io/en/latest/nn_concepts.html
 [TheCodingTrain Intelligence & Learning Playlist](https://www.youtube.com/watch?v=sPEEV8Xih20&list=PLRqwX-V7Uu6YJ3XfHhT2Mm4Y5I99nrIKX)
 
 [MIT Open Courseware Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+
+[Siraj Raval The Math of Intelligence](https://www.youtube.com/playlist?list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
