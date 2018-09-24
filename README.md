@@ -15,3 +15,5 @@ https://ml-cheatsheet.readthedocs.io/en/latest/nn_concepts.html
 [TwoMinutePapers](https://www.youtube.com/user/keeroyz)
 
 [TheCodingTrain Intelligence & Learning Playlist](https://www.youtube.com/watch?v=sPEEV8Xih20&list=PLRqwX-V7Uu6YJ3XfHhT2Mm4Y5I99nrIKX)
+
+[MIT Open Courseware Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
