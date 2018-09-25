@@ -1,4 +1,4 @@
-# resources
+# Resources
 
 https://github.com/afshinea/stanford-cs-229-machine-learning
 
