@@ -8,6 +8,8 @@ http://www.arxiv-sanity.com
 
 https://ml-cheatsheet.readthedocs.io/en/latest/nn_concepts.html
 
+[Deep Learning Book](https://www.deeplearning.org)
+
 # Videos
 
 [3Blue1Brown Neural Network Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
