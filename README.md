@@ -8,7 +8,7 @@ http://www.arxiv-sanity.com
 
 https://ml-cheatsheet.readthedocs.io/en/latest/nn_concepts.html
 
-[Deep Learning Book](https://www.deeplearning.org)
+[Deep Learning Book](https://www.deeplearningbook.org)
 
 # Videos
 
