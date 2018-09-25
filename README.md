@@ -22,6 +22,8 @@ https://github.com/josephmisiti/awesome-machine-learning
 
 https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources
 
+# Books
+
 
 
 # Videos
