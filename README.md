@@ -22,6 +22,8 @@ https://github.com/josephmisiti/awesome-machine-learning
 
 https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources
 
+https://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html
+
 # Books
 
 # Tools
