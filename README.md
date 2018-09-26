@@ -24,6 +24,8 @@ https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources
 
 https://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html
 
+https://github.com/eriklindernoren/ML-From-Scratch
+
 # Books
 
 # Tools
