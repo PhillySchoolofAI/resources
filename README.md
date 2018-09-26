@@ -28,6 +28,12 @@ https://github.com/eriklindernoren/ML-From-Scratch
 
 http://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb
 
+https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_quick_guide.htm
+
+https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc
+
+
+
 
 
 # Books
