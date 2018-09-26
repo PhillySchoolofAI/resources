@@ -26,6 +26,10 @@ https://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html
 
 https://github.com/eriklindernoren/ML-From-Scratch
 
+http://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb
+
+
+
 # Books
 
 # Tools
