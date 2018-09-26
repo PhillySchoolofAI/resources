@@ -32,6 +32,8 @@ https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_wit
 
 https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc
 
+https://www.w3schools.com/python/
+
 
 
 
