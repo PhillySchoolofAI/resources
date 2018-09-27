@@ -34,6 +34,9 @@ https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-lea
 
 https://www.w3schools.com/python/
 
+- [Tensorflow Documentation](https://www.tensorflow.org/tutorials/)
+- [A bunch of online courses](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md)
+- [A bunch of public dataset](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst)
 
 
 
@@ -58,3 +61,6 @@ https://www.w3schools.com/python/
 [MIT Open Courseware Linear Algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 
 [Siraj Raval The Math of Intelligence](https://www.youtube.com/playlist?list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
+
+
+- [Siraj Raval on Youtube](https://youtube.com/c/sirajraval)
