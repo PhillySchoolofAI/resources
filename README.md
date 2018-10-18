@@ -1,3 +1,15 @@
+# meta
+
+
+* [Facebook Group](https://www.facebook.com/groups/250530298906131/)
+
+* [LinkedIn](https://www.linkedin.com/groups/8685707/)
+
+* [Meetup](https://www.meetup.com/Philadelphia-School-of-AI/)
+
+* [Slack](https://programming-wizards.slack.com/messages/CC8JB5QKA)
+
+
 # Resources
 
 https://github.com/afshinea/stanford-cs-229-machine-learning
