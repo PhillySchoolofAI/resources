@@ -52,16 +52,17 @@ https://www.w3schools.com/python/
 - [A bunch of online courses](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md)
 - [A bunch of public dataset](https://github.com/awesomedata/awesome-public-datasets/blob/master/README.rst)
 
+## Mathematics
 
+[Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 
 # Books
 
-# Tools
+https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_3?ie=UTF8&qid=1549661077&sr=8-3&keywords=hands+on+machine+learning+with+scikit-learn+and+tensorflow
 
-[Tensorflow Playground](http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.25120&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
-
-[Tensorboard](https://github.com/tensorflow/tensorboard)
 
 
 # Videos
