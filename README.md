@@ -65,6 +65,11 @@ https://www.w3schools.com/python/
 
 [Deep Learning with Python by Francois Chollet](https://www.google.com/aclk?sa=L&ai=DChcSEwjg3Y2K8IHhAhWQhLMKHSo_DXcYABAGGgJxbg&sig=AOD64_1SwBu04U5pt0fRTwvoNFYBfmyXpw&ctype=5&q=&ved=0ahUKEwiEjIeK8IHhAhXKdN8KHZ95AFQQ9aACCI8B&adurl=)
 
+# MOOCs
+
+* Andrew Ng on Coursera
+
+* Fast.ai
 
 
 # Videos
