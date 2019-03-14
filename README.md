@@ -61,7 +61,9 @@ https://www.w3schools.com/python/
 
 # Books
 
-https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_3?ie=UTF8&qid=1549661077&sr=8-3&keywords=hands+on+machine+learning+with+scikit-learn+and+tensorflow
+[Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems by Aurélien Géron](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/ref=sr_1_3?ie=UTF8&qid=1549661077&sr=8-3&keywords=hands+on+machine+learning+with+scikit-learn+and+tensorflow)
+
+[Deep Learning with Python by Francois Chollet](https://www.google.com/aclk?sa=L&ai=DChcSEwjg3Y2K8IHhAhWQhLMKHSo_DXcYABAGGgJxbg&sig=AOD64_1SwBu04U5pt0fRTwvoNFYBfmyXpw&ctype=5&q=&ved=0ahUKEwiEjIeK8IHhAhXKdN8KHZ95AFQQ9aACCI8B&adurl=)
 
 
 
